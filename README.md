@@ -3,7 +3,7 @@ This repository contains various audio devices that I built for Max/Msp / Max Fo
 
 ## Tinntinabuler
 __*Max patcher (.maxpat)- Generative music machine inspired by Arvo Part*__\
-*Also available for Mac for Live! (.amxd)*
+*Also available for Max for Live! (.amxd)*
 
 ![Tinntinabuler](https://i.imgur.com/KRnjUSR.png)
 
@@ -37,7 +37,6 @@ Controls:
 - __*MIDI module*__ - Controls MIDI input behaviour.
 - __*Partials*__ - This controls that number of filter chains in the system (they are used in parallel).
 - *__Pitch modulation__ (rate + depth)* - This modulates the pitch of the filters randomly, which can be used to create unison and other special effects.
-- __*Envolope*__ - This is a standard ADSR envelope for the synth.
 - __*Feedback*__ - Controls the comb filers' feedback - higher values have a more defined pitch, while lower values become more noisy.
 - __*Q*__ - Noiz Osc uses a lowpass filter for each partial at the end of the chain - This controls their resonance. The cutoff frequencies are random and cannot be changed.
 - __*Rate*__ - The rate of pitch and amplitude modulation.
