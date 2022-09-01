@@ -2,7 +2,8 @@
 This repository contains various audio devices that I built for Max/Msp / Max For Live. 
 
 ## Tinntinabuler
-__*Max patcher (.maxpat)- Generative music machine inspired by Arvo Part*__
+__*Max patcher (.maxpat)- Generative music machine inspired by Arvo Part*__\
+*Also available for Mac for Live! (.amxd)*
 
 ![Tinntinabuler](https://i.imgur.com/KRnjUSR.png)
 
